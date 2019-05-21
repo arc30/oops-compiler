@@ -24,6 +24,7 @@ int IdentifierNode::codeGen()
 {
     std::cout << "CodeGen Identifier" << std::endl;
 }
+
 int IdentifierNode::getBinding()
 {
     std::cout << "getBinding Identifier" << std::endl;
